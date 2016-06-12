@@ -4,7 +4,6 @@ import { HeroesComponent } from './heroes.component';
 import { DashboardComponent } from './dashboard.component';
 import { HeroService } from './hero.service';
 import { HeroDetailComponent } from './hero-detail.component';
-import '../../public/css/styles.css';
 
 @RouteConfig([
   {
